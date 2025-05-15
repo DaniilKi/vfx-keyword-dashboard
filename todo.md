@@ -1,0 +1,10 @@
+- [X] Load and concatenate CSVs
+- [X] Deduplicate and clean keywords
+- [X] Classify search intent for missing values
+- [X] Build interactive dashboard
+  - [X] Implement filtering and sorting
+  - [X] Calculate and display summary metrics
+  - [X] Create visual charts (bar, scatter, treemap/heatmap, geo-map/table)
+- [X] Implement export functionality (CSV/Excel)
+- [X] Validate dashboard features and data accuracy
+- [X] Prepare and send code, notebook layout, and instructions
