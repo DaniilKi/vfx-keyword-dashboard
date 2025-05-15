@@ -67,7 +67,7 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/home/ubuntu/keywords_with_intent.csv')
+    df = pd.read_csv("keywords_with_intent.csv")
     return df
 
 # Function to generate downloadable link
